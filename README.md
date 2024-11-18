@@ -94,4 +94,4 @@ while True:
 
 
 ## Result:
-Thus, python program to perform stop and wait protocol was successfully executed.
+Thus the study on Client Server Chat Applications has been performed.

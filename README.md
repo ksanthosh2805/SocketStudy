@@ -94,4 +94,4 @@ while True:
 
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus, python program to perform stop and wait protocol was successfully executed.
